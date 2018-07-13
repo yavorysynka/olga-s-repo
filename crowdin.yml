@@ -26,4 +26,4 @@ files:
     translation: /translations/%language%.%original_file_name%
     content_segmentation: '0'
     translatable_elements:
-      - /data//string
+      - //string
