@@ -22,3 +22,8 @@ files:
     content_segmentation: '0'
     translatable_elements:
       - data/string id
+  - source: Example._path_to_node.xml
+    translation: /translations/%language%.%original_file_name%
+    content_segmentation: '0'
+    translatable_elements:
+      - data/UTF8 /
