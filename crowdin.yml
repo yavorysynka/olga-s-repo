@@ -7,7 +7,7 @@ files:
   - source: Sample.csv
     translation: /translations/%locale_with_underscore%/%original_file_name%
     scheme: 'identifier,source_or_translation'
-  - source: '*.xml'
+  - source: categories.xml
     translation: /translations/%locale%/%original_file_name%
     translate_attributes: '0'
     content_segmentation: '0'
