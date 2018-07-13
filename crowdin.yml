@@ -16,6 +16,7 @@ files:
       - '*.csv'
       - '*.xml'
       - '*.md'
+      - /translations/*.*
     translation: /translations/%locale%/%original_file_name%
   - source: Example.xml
     translation: /test/%locale_with_underscore%/%original_file_name%
