@@ -18,7 +18,7 @@ files:
       - '*.md'
     translation: /translations/%locale%/%original_file_name%
   - source: Example.xml
-    translation: /test/%android_code%/%original_file_name%
+    translation: /test/%locale_with_underscore%/%original_file_name%
     content_segmentation: '0'
     translatable_elements:
       - data/string id
