@@ -19,7 +19,7 @@ echo $x;
 ?>
 
 <?php
-$color = "grün";
+$color = "green";
 ?>
 
 <?php
