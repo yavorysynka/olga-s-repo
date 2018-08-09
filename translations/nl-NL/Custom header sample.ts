@@ -5,11 +5,11 @@
     <name>AddBridgeScreen</name>
     <message>
       <source>Text</source>
-      <translation type="unfinished">Text for translation</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>text_2</source>
-      <translation type="unfinished">Text for translation 2</translation>
+      <translation type="unfinished"/>
     </message>
   </context>
 </TS>
