@@ -1,16 +1,3 @@
 files:
-  - source: /Sample.csv
-    translation: /translations/%locale_with_underscore%/%original_file_name%
-    scheme: 'identifier,source_or_translation'
-  - source: '*.*'
-    ignore:
-      - '*.csv'
-      - '*.xml'
-      - '*.md'
-      - /translations/
-    translation: /translations/%locale%/%original_file_name%
-  - source: /Example._path_to_node.xml
-    translation: /translations/%language%.%original_file_name%
-    content_segmentation: '0'
-    translatable_elements:
-      - //string
+  - source: /*.json
+    translation: /%two_letters_code%.%file_name%.json
