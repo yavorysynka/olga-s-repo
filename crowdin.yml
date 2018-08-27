@@ -1,5 +1,3 @@
 files:
-  - source: /*.json
+  - source: /*_en.json
     translation: /%two_letters_code%.%file_name%.json
-    translation replace: 
-    "_en." : ""
