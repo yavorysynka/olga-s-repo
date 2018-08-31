@@ -1,6 +1,5 @@
 files:
   - source: /*_en.json
-    translation: /%two_letters_code%.%file_name%.json
-    translation_replace: {
-    "en." : ""
-}
+    translation: /%locale%.%file_name%.json
+    translation_replace:
+      en.: 
