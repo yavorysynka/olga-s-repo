@@ -1,5 +1,8 @@
 files:
-  - source: /*_en.json
-    translation: /%locale%.%file_name%.json
+  - source: /*.po
+    translation: /olia_test/translations_po/%android_code%/%original_file_name%
+    languages_mapping:
+      android_code:
+        de: german
     translation_replace:
       en.: 
