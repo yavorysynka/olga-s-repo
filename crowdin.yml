@@ -11,7 +11,7 @@ files:
     languages_mapping:
       language:
         td: Dialect
-  - source: /*properties
+  - source: /*.properties
     translation: /first_rank/second_rank/third_rank/%three_letters_code%_final
   - source: /*.json
     ignore:
