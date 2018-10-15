@@ -6,3 +6,8 @@ files:
         zh-CN: CH
   - source: /*.po
     translation: /po/trans/%two_letters_code%.%original_file_name%
+  - source: /*.ini
+    translation: /first/%original_file_name%.%locale_with_underscore%.%language%_final.ini
+    languages_mapping:
+      language:
+        td: Dialect
