@@ -7,7 +7,13 @@ files:
   - source: /*.po
     translation: /po/trans/%two_letters_code%.%original_file_name%
   - source: /*.ini
-    translation: /first/%original_file_name%.%locale_with_underscore%.%language%_final.ini
+    translation: /first/%original_file_name%.%locale_with_underscore%.%language%_final
     languages_mapping:
       language:
         td: Dialect
+  - source: /*properties
+    translation: /first_rank/second_rank/third_rank/%three_letters_code%_final
+  - source: /*.json
+    ignore:
+      - /Example_en.json
+    translation: /third/%language%
