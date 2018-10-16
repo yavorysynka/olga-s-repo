@@ -1,8 +1,8 @@
 files:
-  - source: /*.json
-    translation: /olga/translations/%locale%.%file_extension%
+  - source: /*.ts
+    translation: /yaryna/translations/%locale%/%original_file_name%
     languages_mapping:
       locale:
-        zh-CN: CH
-  - source: /*.po
-    translation: /po/trans/%two_letters_code%.%original_file_name%
+        fr: fr
+  - source: /*.resx
+    translation: /yaryna/translations/%two_letters_code%/%original_file_name%
