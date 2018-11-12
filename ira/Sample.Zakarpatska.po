@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: iratest\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2008-09-03 10:09+0200\n"
-"PO-Revision-Date: 2018-11-05 16:25\n"
+"PO-Revision-Date: 2018-11-12 09:24\n"
 "Last-Translator: yavorysynka <olga@crowdin.com>\n"
 "Language-Team: Zakarpatska\n"
 "MIME-Version: 1.0\n"
@@ -16,8 +16,8 @@ msgstr ""
 "X-Crowdin-File: /master/Sample.po\n"
 "Language: ua_zk\n"
 
-#: simple string sample
-msgid "Text for translation"
+#: hi
+msgid "Hi!"
 msgstr ""
 
 #: sample with translated string
