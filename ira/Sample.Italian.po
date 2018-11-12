@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: iratest\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2008-09-03 10:09+0200\n"
-"PO-Revision-Date: 2018-11-05 16:25\n"
+"PO-Revision-Date: 2018-11-12 09:24\n"
 "Last-Translator: yavorysynka <olga@crowdin.com>\n"
 "Language-Team: Italian\n"
 "MIME-Version: 1.0\n"
@@ -16,9 +16,9 @@ msgstr ""
 "X-Crowdin-File: /master/Sample.po\n"
 "Language: it_IT\n"
 
-#: simple string sample
-msgid "Text for translation"
-msgstr ""
+#: hi
+msgid "Hi!"
+msgstr "Hi!"
 
 #: sample with translated string
 msgid "Text for translation"
@@ -26,7 +26,7 @@ msgstr ""
 
 #: long string without new line
 msgid "Very long string for translationeven longer string for translation."
-msgstr ""
+msgstr "Stringa molto lunga per translationeven la corda più lunga per la traduzione."
 
 #: long string with new line
 msgid "Very long string.\n"
