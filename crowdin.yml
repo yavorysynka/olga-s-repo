@@ -1,5 +1,3 @@
 files:
   - source: /*.json
-    translation: /translations/%locale%/%original_file_name%
-  - source: /*.po
-    translation: /translations/po/%locale%/%original_file_name%
+    translation: /translations/json/%locale%/%original_file_name%
