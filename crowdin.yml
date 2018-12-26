@@ -1,7 +1,7 @@
 files:
   - source: /*.json
     translation: /translations/json/%locale%/%original_file_name%
-  - source: Example.xml
+  - source: /Example.xml
     translation: /olga/%language%_%original_file_name%
     content_segmentation: 0
     translatable_elements:
