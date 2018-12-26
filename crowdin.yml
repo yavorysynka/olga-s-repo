@@ -3,4 +3,4 @@ files:
     translation: /olga/%language%_%original_file_name%
     content_segmentation: 0
     translatable_elements:
-      - /<data>/
+      - /<data>/</string>
