@@ -1,6 +1,3 @@
 files:
-  - source: /Example.xml
-    translation: /olga/%language%_%original_file_name%
-    content_segmentation: 0
-    translatable_elements:
-      - string
+  - source: /en.ini
+    translation: /translations/%locale%.%file_extension%
