@@ -8,4 +8,6 @@ files:
     translation_replace:
       _en: 
   - source: /*.svg
+    "dest" : "/olga.svg",
     translation: /translations/%file_name%-%language%.svg
+    "type" : "html"
