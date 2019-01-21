@@ -8,5 +8,6 @@ files:
     translation_replace: &ref__en
       _en: 
   - source: /index.twig
+    dest : /index.html
     translation: /translations/%file_name%-%two_letters_code%.twig
     type: html
