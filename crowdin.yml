@@ -9,3 +9,4 @@ files:
       _en: 
   - source: /index.twig
     translation: /translations/%file_name%-%two_letters_code%.twig
+    type : html
