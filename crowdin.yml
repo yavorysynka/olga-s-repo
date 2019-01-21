@@ -5,8 +5,5 @@ files:
     ignore:
       - /Example.json
     translation: /translations/%file_name%_%two_letters_code%.%file_extension%
-    translation_replace:
+    translation_replace: &ref__en
       _en: 
-  - source: /*.svg
-    translation: /translations/%file_name%-%language%.svg
-    type : "html"
