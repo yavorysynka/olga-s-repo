@@ -15,4 +15,3 @@ files:
     type: html
   - source: /*.properties
     translation: /translations/%two_letters_code%-%original_file_name%
-    escape_quotes : 0
