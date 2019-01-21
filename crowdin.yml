@@ -1,3 +1,7 @@
 files:
   - source: /en.ini
     translation: /translations/%locale%.%file_extension%
+  - source: /*.json
+    ignore:
+      - /Example.json
+    translation: /translations/%file_name%_%two_letters_code%.%file_extension%
