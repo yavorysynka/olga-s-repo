@@ -5,6 +5,3 @@ files:
     ignore:
       - /Example.json
     translation: /translations/%file_name%_%two_letters_code%.%file_extension%
-    translation_replace: {
-    "_en" : ""
-}
