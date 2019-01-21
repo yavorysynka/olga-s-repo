@@ -13,3 +13,5 @@ files:
     dest: /index.html
     translation: /translations/%file_name%-%two_letters_code%.twig
     type: html
+  - source: /*.properties
+    translation: /translations/%two_letters_code%-%original_file_name%
