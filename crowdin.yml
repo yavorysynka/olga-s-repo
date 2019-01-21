@@ -1,9 +1,8 @@
-"preserve_hierarchy": true
-
+preserve_hierarchy: true
 files:
   - source: /en.ini
     translation: /translations/%locale%.%file_extension%
-    update_option : update_without_changes
+    update_option: update_without_changes
   - source: /*.json
     ignore:
       - /Example.json
