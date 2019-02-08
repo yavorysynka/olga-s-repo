@@ -2,17 +2,8 @@ preserve_hierarchy: true
 files:
   - source: /en.ini
     translation: /translations/%locale%.%file_extension%
-    update_option: update_without_changes
-  - source: /*.json
-    ignore:
-      - /Example.json
-    translation: /translations/%file_name%_%two_letters_code%.%file_extension%
-    translation_replace: &ref__en
-      _en: 
-  - source: /index.twig
-    dest: /index.html
-    translation: /translations/%file_name%-%two_letters_code%.twig
-    type: html
-  - source: /*.properties
-    translation: /translations/%two_letters_code%-%original_file_name%
-    escape_quotes: 0
+    export_languages: [                                   
+    ru, 
+    uk, 
+    ja
+  ]
