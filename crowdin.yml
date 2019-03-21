@@ -2,8 +2,3 @@ preserve_hierarchy: true
 files:
   - source: /en.ini
     translation: /translations/%locale%.%file_extension%
-    export_languages: [                                   
-    ru, 
-    uk, 
-    ja
-  ]
