@@ -1,4 +1,4 @@
 preserve_hierarchy: true
 files:
-  - source: /en.ini
-    translation: /ola.%language%.%file_extension%
+  - source: /*.json
+    translation: /translations/%locale%/%original_file_name%
