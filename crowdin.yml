@@ -1,4 +1,4 @@
 preserve_hierarchy: true
 files:
   - source: /*.json
-    translation: /translations/%locale%/%original_file_name%
+    translation: /translations/%locale%.%file_extension%
