@@ -1,2 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<content><item id="1"><name><![CDATA[]]></name></item></content>
+<data>
+  <UTF8/>
+  <string id="1"/>
+  <string id="2"/>
+  <string id="3"/>
+  <string id="4"/>
+  <string id="5"/>
+</data>
