@@ -3,7 +3,8 @@ msgstr ""
 "Project-Id-Version: ger\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2008-09-03 10:09+0200\n"
-"PO-Revision-Date: 2020-03-25 07:24\n"
+"PO-Revision-Date: 2020-04-02 10:14\n"
+"X-Crowdin-SourceKey: msgstr\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -12,19 +13,11 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: ger\n"
 "X-Crowdin-Language: de\n"
-"X-Crowdin-File: /new.crowdin/Sample.po\n"
+"X-Crowdin-File: /new.crowdin/Custom header sample.po\n"
 "Language: de_DE\n"
-
-#: simple string sample
-msgid "Text for translation"
-msgstr ""
 
 #: sample with translated string
 msgid "Text for translation"
-msgstr ""
-
-#: long string without new line
-msgid "Very long string for translationeven longer string for translation."
 msgstr ""
 
 #: long string with new line
