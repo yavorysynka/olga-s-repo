@@ -3,8 +3,7 @@ msgstr ""
 "Project-Id-Version: gh-july-demo\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2008-09-03 10:09+0200\n"
-"PO-Revision-Date: 2020-07-22 09:10\n"
-"X-Crowdin-SourceKey: msgstr\n"
+"PO-Revision-Date: 2020-07-22 09:11\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "MIME-Version: 1.0\n"
@@ -14,28 +13,35 @@ msgstr ""
 "X-Crowdin-Project: gh-july-demo\n"
 "X-Crowdin-Project-ID: 411898\n"
 "X-Crowdin-Language: ar\n"
-"X-Crowdin-File: /master/Custom header sample.po\n"
-"X-Crowdin-File-ID: 34460\n"
+"X-Crowdin-File: /master/Sample.po\n"
+"X-Crowdin-File-ID: 34482\n"
 "Language: ar_SA\n"
+
+#: simple string sample
+msgid "Text for translation"
+msgstr ""
 
 #: sample with translated string
 msgid "Text for translation"
-msgstr "Translated string"
+msgstr ""
+
+#: long string without new line
+msgid "Very long string for translationeven longer string for translation."
+msgstr ""
 
 #: long string with new line
 msgid "Very long string.\n"
 "Even longer string"
-msgstr "translation\n"
-"translation_2"
+msgstr ""
 
 #: plurals
 #, string with plurals forms
 msgid "Time: %1 second"
 msgid_plural "Time: %1 seconds"
-msgstr[0] "Czas: %1 sekundy"
-msgstr[1] "Czas: %1 sekunda"
-msgstr[2] "Czas: %1 sekundy"
-msgstr[3] "Czas: %1 sekundy"
-msgstr[4] "Czas: %1 sekundy"
-msgstr[5] "Czas: %1 sekundy"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
 
