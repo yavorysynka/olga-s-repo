@@ -3,6 +3,7 @@ files:
   - source: /*.*
     ignore:
       - /*.csv
-    translation: /translations/%locale%.%file_extension%
+    translation: /translations/%locale%/%original_file_name%
+    translate_content: 0
     translate_attributes: 0
     content_segmentation: 0
