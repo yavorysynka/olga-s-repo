@@ -1,14 +1,14 @@
 {
   "appName": {
-    "message": "chaîne 1",
+    "message": "string 1",
     "description": "context"
   },
   "extName": {
-    "message": "chaîne 2",
+    "message": "string 2",
     "description": "context"
   },
   "extDesc": {
-    "message": "chaîne 3",
+    "message": "string 3",
     "description": "context"
   }
 }
