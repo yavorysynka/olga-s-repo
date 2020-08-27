@@ -19,13 +19,13 @@ echo $x;
 ?>
 
 <?php
-$color = "vert";
+$color = "green";
 ?>
 
 <?php
 /* en.php - english language file */
-$messages['smth to translate'] = 'Texte à traduire';
-$messages['hello'] = 'Bonjour';
+$messages['smth to translate'] = 'Text for translation';
+$messages['hello'] = 'Hello';
 ?>
 
 </body>
