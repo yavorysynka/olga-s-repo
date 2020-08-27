@@ -80,7 +80,7 @@
             : and then encoded with base64 encoding.     
     -->
   <data name="hello" xml:space="preserve">
-    <value>salut!</value>
+    <value>Hello!</value>
     <comment>some comments here</comment>
   </data>
 </root>
